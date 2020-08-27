@@ -1,0 +1,18 @@
+{
+  "name": "typescript-base-de-estudo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KleberLemosVaz/typescript_basisForTheStudy.git",
+  "author": "KleberLemosVaz <kleberlvaz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
+    "@typescript-eslint/parser": "^3.10.1",
+    "eslint": "^7.7.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
